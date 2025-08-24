@@ -1,0 +1,1 @@
+# Offline-PDF-Analyzer-Using-Local-LLM-s
